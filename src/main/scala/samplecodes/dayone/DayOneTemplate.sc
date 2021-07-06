@@ -23,3 +23,6 @@ Instructions:
 //task 07: concatenate list in task 03 and task 05
 
 //task 08: reverse the list in task 06
+
+//task 09: Write task 02 as a function instead and call the function in the next line
+
