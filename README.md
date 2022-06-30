@@ -6,5 +6,3 @@
 4. Name the worksheet with your name.
 5. A sample template with questions and instructions is already created.
 6. Answer all the questions and push your code to git.
-
-Exercise status: To be done

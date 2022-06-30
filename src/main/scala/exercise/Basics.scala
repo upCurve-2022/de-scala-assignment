@@ -1,4 +1,4 @@
-package samplecodes
+package exercise
 
 object Basics extends App {
   val someNumber: Int = 5
